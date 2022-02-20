@@ -1,0 +1,17 @@
+is_train = 1 
+is_evaluate = -1
+is_test = -1
+lr = 0.00025    
+epochs = 175
+batch_size = 6 
+data_set_path = /scratch/tushar.choudhary/keypoint-network/train_actual_small/
+eval_input_path = /scratch/tushar.choudhary/keypoint-network/eval_images/
+eval_output_path = /scratch/tushar.choudhary/keypoint-network/eval_output/
+model_weights   = /scratch/tushar.choudhary/keypoint-network/hour_glass/model.pth
+stacks = 8 
+blocks = 4 
+depth = 4 
+classes = 14
+output_res = 64
+checkpoint  = checkpoint
+snapshot = 10000

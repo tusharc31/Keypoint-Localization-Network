@@ -1,1 +1,1 @@
-# Hourglass-network-for-keypoint-localization
+# Keypoint-Localization-Network
